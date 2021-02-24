@@ -21,4 +21,4 @@ const wiz = new Wiz([logger]);
 
 ## License
 
-Wiz is licensed under the MIT License. See the [license](/LICENSE) for more info.
+Wiz is licensed under the MIT License. See the [license](./LICENSE) for more info.
